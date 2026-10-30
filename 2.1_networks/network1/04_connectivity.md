@@ -11,4 +11,9 @@ images/ping-pc0.png
 - Which ones failed and why?
 
 _Write your explanation here…_
+yes all pc's were connected 
+
+all
+
+The one i putted wrong IP address and showed me request timeout.
 
